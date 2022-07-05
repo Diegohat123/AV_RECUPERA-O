@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.text{
+ 
+  align-items:center;
+  display: flex;
+  width: 300px;
+  flex-flow: row nowrap;
+  font-size: small;
+  
+
+
+}
+
+.textos{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+.imagem{
+  width: 360px;
+  border:1px solid black ;
+  margin: 10px;
+}
+.imagem img{
+  width: 360px;
+}
+.button3{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
